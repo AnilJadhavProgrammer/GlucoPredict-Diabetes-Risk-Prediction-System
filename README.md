@@ -1,4 +1,4 @@
-# Diabetes_Prediction_Model
+# GlucoPredict — Diabetes Risk Prediction System
 
 **Overview**
 
